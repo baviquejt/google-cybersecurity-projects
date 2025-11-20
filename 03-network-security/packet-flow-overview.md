@@ -9,12 +9,12 @@ Understanding how packets travel across a network is essential for any cybersecu
 
 flowchart LR
 
-    A[User Device<br/>(Laptop / Phone)] --> B[NIC<br/>(Network Card)]
-    B --> C[Switch<br/>(Local Network)]
-    C --> D[Router<br/>(Gateway / NAT)]
-    D --> E[Firewall<br/>(Packet Filtering)]
+    A[User Device(Laptop / Phone)] --> B[NIC(Network Card)]
+    B --> C[Switch(Local Network)]
+    C --> D[Router(Gateway / NAT)]
+    D --> E[Firewall(Packet Filtering)]
     E --> F[ISP / Public Internet]
-    F --> G[Destination Server<br/>(Website / API / Cloud)]
+    F --> G[Destination Server(Website / API / Cloud)]
 
 
 
