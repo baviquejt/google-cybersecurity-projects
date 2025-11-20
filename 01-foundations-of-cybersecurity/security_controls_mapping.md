@@ -59,7 +59,7 @@
 
 ---
 
-## 🧠 Analyst Reflection
+## 🧠 Reflection
 
 This exercise reinforced how important it is to match *specific* vulnerabilities with *targeted* security controls.  
 Security isn’t solved by “more tools”, it’s solved by **the right controls applied in the right place**.
